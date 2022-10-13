@@ -1,0 +1,152 @@
+.testimonies {
+  width: 100%;
+  display: flex;
+  flex-wrap: wrap;
+  margin-left: auto;
+  margin-right: auto;
+  background-color: #ffffff;
+}
+
+.testimonies11 {
+  background-color: #f2f7f7;
+}
+
+.all777 {
+  background-color: #ffffff;
+}
+
+.testimonies__2 {
+  background-color: #f2f7f7;
+}
+
+.testimonies1 {
+  width: 100%;
+  display: flex;
+  flex-wrap: wrap;
+  margin-left: auto;
+  margin-right: auto;
+}
+
+.testimonies__all {
+  padding: 75px 0 55px;
+  width: 100%;
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  flex-direction: column;
+  flex-wrap: wrap;
+  text-align: center;
+}
+
+#status2.success {
+  animation: status 4s ease forwards;
+}
+
+#status2.error {
+  color: #000000;
+  animation: status 4s ease forwards;
+}
+
+#status2 {
+  line-height: 24px;
+  margin-top: 30px;
+  width: 60%;
+  text-align: center;
+}
+
+.conference__all_here_text_2 {
+  font-family: 'PT Serif', serif;
+  text-align: center;
+  margin-bottom: 50px;
+  font-size: 35px;
+  font-weight: 700;
+  color: #2d4a47;
+}
+
+.input2 {
+  padding: 0 10px 10px 0;
+  height: 100px;
+  resize: none;
+}
+
+.input__label2 {
+  position: relative;
+  height: 130px;
+  display: flex;
+  flex-direction: column;
+  width: 100%;
+}
+
+.prayer_requests {
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  width: 100%;
+}
+
+.all_prayer_requests {
+  width: 70%;
+  font-family: 'Merriweather', sans-serif;
+  margin: 75px 0;
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  flex-direction: column;
+  text-align: center;
+  color: #2d4a47;
+}
+
+.all_prayer_requests_text___2 {
+  text-align: center;
+  margin-bottom: 30px;
+  font-size: 35px;
+  color: #2d4a47;
+  font-family: 'PT Serif', serif;
+  font-weight: 700;
+}
+
+.all_prayer_requests_text___3 {
+  line-height: 28px;
+  font-size: 18px;
+  font-weight: 400;
+  color: #2d4a47;
+  font-family: 'PT Serif', serif;
+}
+
+
+#status3.success {
+  animation: status 4s ease forwards;
+}
+
+#status3.error {
+  color: #000000;
+  animation: status 4s ease forwards;
+}
+
+#status3 {
+  line-height: 24px;
+  margin-top: 30px;
+  width: 60%;
+  text-align: center;
+}
+
+.all2 {
+  margin-bottom: 75px;
+}
+
+
+#status4.success {
+  animation: status 4s ease forwards;
+}
+
+#status4.error {
+  color: #000000;
+  animation: status 4s ease forwards;
+}
+
+#status4 {
+  line-height: 24px;
+  margin-top: 30px;
+  width: 60%;
+  text-align: center;
+}
